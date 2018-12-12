@@ -2,7 +2,6 @@
 
 This code is taken from Anders as a continuation when we together with him went through the assignment.
 
-## Assignment
 ![Assignment](https://github.com/KongBoje/DM-StaticAnalysis/blob/master/pictures/assignmentDesc.JPG)
 
 ## Abstract syntax tree
